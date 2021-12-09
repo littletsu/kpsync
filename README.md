@@ -1,5 +1,5 @@
 # kpsync
-Bash script for syncing KeepassXC databases
+Bash script for syncing KeepassXC databases in Dropbox
 
 # Configuration
 By default, this script will look for a .kpsync file in the user's home directory. This file can be configurated in this way:
